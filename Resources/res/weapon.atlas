@@ -1,0 +1,117 @@
+
+weapon.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ico_wea_01_18_01_001
+  rotate: false
+  xy: 2, 749
+  size: 247, 251
+  orig: 256, 256
+  offset: 0, 1
+  index: -1
+ico_wea_01_18_01_002
+  rotate: false
+  xy: 486, 774
+  size: 219, 226
+  orig: 256, 256
+  offset: 7, 24
+  index: -1
+ico_wea_01_18_01_003
+  rotate: false
+  xy: 251, 757
+  size: 233, 243
+  orig: 256, 256
+  offset: 14, 9
+  index: -1
+ico_wea_01_18_01_004
+  rotate: false
+  xy: 707, 775
+  size: 218, 225
+  orig: 256, 256
+  offset: 7, 25
+  index: -1
+ico_wea_01_18_01_005
+  rotate: false
+  xy: 569, 431
+  size: 117, 118
+  orig: 256, 256
+  offset: 66, 68
+  index: -1
+ico_wea_01_18_01_006
+  rotate: false
+  xy: 2, 261
+  size: 228, 228
+  orig: 256, 256
+  offset: 9, 13
+  index: -1
+ico_wea_01_18_01_007
+  rotate: false
+  xy: 486, 551
+  size: 220, 221
+  orig: 256, 256
+  offset: 16, 14
+  index: -1
+ico_wea_01_18_01_008
+  rotate: false
+  xy: 240, 351
+  size: 174, 174
+  orig: 256, 256
+  offset: 40, 36
+  index: -1
+ico_wea_01_18_01_009
+  rotate: false
+  xy: 240, 527
+  size: 218, 220
+  orig: 256, 256
+  offset: 16, 15
+  index: -1
+ico_wea_01_18_01_010
+  rotate: true
+  xy: 223, 2
+  size: 172, 173
+  orig: 256, 256
+  offset: 40, 37
+  index: -1
+ico_wea_01_18_01_011
+  rotate: false
+  xy: 708, 551
+  size: 220, 222
+  orig: 256, 256
+  offset: 15, 14
+  index: -1
+ico_wea_01_18_01_012
+  rotate: false
+  xy: 2, 34
+  size: 219, 225
+  orig: 256, 256
+  offset: 7, 24
+  index: -1
+ico_wea_01_18_01_013
+  rotate: true
+  xy: 232, 176
+  size: 173, 174
+  orig: 256, 256
+  offset: 41, 36
+  index: -1
+ico_wea_01_18_01_014
+  rotate: false
+  xy: 2, 491
+  size: 236, 256
+  orig: 256, 256
+  offset: 15, 0
+  index: -1
+ico_wea_01_18_01_015
+  rotate: false
+  xy: 688, 436
+  size: 112, 113
+  orig: 256, 256
+  offset: 68, 69
+  index: -1
+ico_wea_01_18_01_016
+  rotate: false
+  xy: 416, 372
+  size: 151, 153
+  orig: 256, 256
+  offset: 50, 47
+  index: -1

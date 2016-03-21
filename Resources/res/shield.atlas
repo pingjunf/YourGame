@@ -1,0 +1,117 @@
+
+shield.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shi_01_01_01_001
+  rotate: false
+  xy: 302, 107
+  size: 113, 147
+  orig: 256, 256
+  offset: 66, 32
+  index: -1
+shi_01_01_01_002
+  rotate: true
+  xy: 521, 20
+  size: 55, 58
+  orig: 256, 256
+  offset: 101, 74
+  index: -1
+shi_01_01_01_003
+  rotate: true
+  xy: 417, 78
+  size: 63, 107
+  orig: 256, 256
+  offset: 96, 52
+  index: -1
+shi_01_01_01_004
+  rotate: true
+  xy: 531, 156
+  size: 98, 118
+  orig: 256, 256
+  offset: 76, 43
+  index: -1
+shi_01_01_01_005
+  rotate: false
+  xy: 302, 2
+  size: 73, 103
+  orig: 256, 256
+  offset: 88, 58
+  index: -1
+shi_01_01_01_006
+  rotate: true
+  xy: 651, 165
+  size: 89, 125
+  orig: 256, 256
+  offset: 77, 41
+  index: -1
+shi_01_01_01_007
+  rotate: true
+  xy: 177, 16
+  size: 86, 119
+  orig: 256, 256
+  offset: 80, 43
+  index: -1
+shi_01_01_01_008
+  rotate: true
+  xy: 443, 23
+  size: 53, 76
+  orig: 256, 256
+  offset: 102, 86
+  index: -1
+shi_01_01_01_009
+  rotate: false
+  xy: 377, 8
+  size: 64, 68
+  orig: 256, 256
+  offset: 96, 75
+  index: -1
+shi_01_01_01_010
+  rotate: true
+  xy: 531, 77
+  size: 77, 102
+  orig: 256, 256
+  offset: 89, 55
+  index: -1
+shi_01_01_01_011
+  rotate: true
+  xy: 778, 164
+  size: 90, 114
+  orig: 256, 256
+  offset: 82, 53
+  index: -1
+shi_01_01_01_012
+  rotate: true
+  xy: 894, 152
+  size: 102, 107
+  orig: 256, 256
+  offset: 79, 57
+  index: -1
+shi_01_01_01_013
+  rotate: false
+  xy: 581, 20
+  size: 58, 55
+  orig: 256, 256
+  offset: 103, 86
+  index: -1
+shi_01_01_01_014
+  rotate: false
+  xy: 417, 143
+  size: 112, 111
+  orig: 256, 256
+  offset: 71, 48
+  index: -1
+shi_01_01_01_015
+  rotate: false
+  xy: 177, 104
+  size: 123, 150
+  orig: 256, 256
+  offset: 62, 37
+  index: -1
+shi_01_01_01_016
+  rotate: false
+  xy: 2, 7
+  size: 173, 247
+  orig: 256, 256
+  offset: 42, 8
+  index: -1

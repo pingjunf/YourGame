@@ -1,0 +1,152 @@
+
+spineboy.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eyes
+  rotate: false
+  xy: 882, 195
+  size: 34, 27
+  orig: 34, 27
+  offset: 0, 0
+  index: -1
+eyes-closed
+  rotate: false
+  xy: 918, 195
+  size: 34, 27
+  orig: 34, 27
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 595, 122
+  size: 121, 132
+  orig: 121, 132
+  offset: 0, 0
+  index: -1
+ico_wea_01_18_01_045
+  rotate: false
+  xy: 2, 5
+  size: 248, 249
+  orig: 256, 256
+  offset: 1, 0
+  index: -1
+left-arm
+  rotate: false
+  xy: 949, 225
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+left-foot
+  rotate: false
+  xy: 882, 224
+  size: 65, 30
+  orig: 65, 30
+  offset: 0, 0
+  index: -1
+left-hand
+  rotate: true
+  xy: 557, 72
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+left-lower-leg
+  rotate: false
+  xy: 718, 124
+  size: 49, 64
+  orig: 49, 64
+  offset: 0, 0
+  index: -1
+left-shoulder
+  rotate: true
+  xy: 502, 73
+  size: 34, 53
+  orig: 34, 53
+  offset: 0, 0
+  index: -1
+left-upper-leg
+  rotate: true
+  xy: 322, 2
+  size: 33, 67
+  orig: 33, 67
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 986, 226
+  size: 34, 28
+  orig: 34, 28
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: false
+  xy: 368, 60
+  size: 63, 47
+  orig: 63, 47
+  offset: 0, 0
+  index: -1
+right-arm
+  rotate: true
+  xy: 368, 37
+  size: 21, 45
+  orig: 21, 45
+  offset: 0, 0
+  index: -1
+right-foot
+  rotate: false
+  xy: 433, 77
+  size: 67, 30
+  orig: 67, 30
+  offset: 0, 0
+  index: -1
+right-hand
+  rotate: false
+  xy: 391, 3
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+right-lower-leg
+  rotate: false
+  xy: 718, 190
+  size: 51, 64
+  orig: 51, 64
+  offset: 0, 0
+  index: -1
+right-shoulder
+  rotate: false
+  xy: 828, 203
+  size: 52, 51
+  orig: 52, 51
+  offset: 0, 0
+  index: -1
+right-upper-leg
+  rotate: false
+  xy: 322, 37
+  size: 44, 70
+  orig: 44, 70
+  offset: 0, 0
+  index: -1
+shi_01_01_01_002
+  rotate: false
+  xy: 771, 196
+  size: 55, 58
+  orig: 256, 256
+  offset: 101, 74
+  index: -1
+spineboy
+  rotate: true
+  xy: 252, 109
+  size: 145, 341
+  orig: 145, 341
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 252, 15
+  size: 68, 92
+  orig: 68, 92
+  offset: 0, 0
+  index: -1
